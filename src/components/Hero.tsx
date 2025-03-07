@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 export const Hero: React.FC = () => {
   return (
@@ -7,7 +7,7 @@ export const Hero: React.FC = () => {
       className="relative h-[500px] flex items-center justify-center"
     >
       <img
-        src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+        src="../../assets/1st.jpg"
         alt="Industrial warehouse with machinery and equipment"
         className="absolute inset-0 w-full h-full object-cover"
       />
